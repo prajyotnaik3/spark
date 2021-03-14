@@ -36,7 +36,7 @@ lines.pprint()
 ssc.start()
 ssc.awaitTermination()
 </pre>
-Press Esc, followed :wq and press and to save the file.
+Press Esc, followed :wq and press Enter to save the file.
 
 Alternatively, use any editor of your choice to create file SocketTextStream.py with above code.
 
