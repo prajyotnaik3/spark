@@ -1,6 +1,6 @@
 from pyspark import SparkContext
 
-sc = SparkContext("local[2]", "map-flatMap")
+sc = SparkContext("local[2]", "ReduceByKey")
 
 #Example 2 - Iris Dataset, average values of fields
 #Read the input file
